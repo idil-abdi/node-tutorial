@@ -112,3 +112,8 @@
 // })
 
 // server.listen(5000)
+
+//? npm command
+// local dependency - use it only in this particular project
+// npm i <packageName> 
+console.log('Hello World my friends');
